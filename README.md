@@ -1,4 +1,3 @@
-FunCodes
+leetcode solutions
 ========
 
-Coding for fun.
